@@ -1,2 +1,2 @@
-# Zeolite_Rejuvenation
-Control Code for  Zeolite Rejuvination System 
+# Zeolite_Regeneration
+Control Code for  Zeolite Regeneration System 
